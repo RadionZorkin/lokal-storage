@@ -1,0 +1,12 @@
+.modal {
+  width: 600px;
+  background-color: rgba(255, 255, 255, 0.355);
+  padding: 30px;
+  border-radius: 30px;
+}
+.modal img {
+  border-radius: 10px;
+}
+.modal button {
+  border-radius: 5px;
+}
